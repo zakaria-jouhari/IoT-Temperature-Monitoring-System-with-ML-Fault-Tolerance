@@ -11,6 +11,10 @@ An IoT temperature monitoring system with **automatic ML-based fault tolerance**
   <p><i>Three-layer architecture: Edge (Arduino) → Gateway (Jetson Nano) → Cloud (Node-RED)</i></p>
 </div>
 
+<div align="center">
+  <img src="prototype_reel.jpg" alt="System Architecture" width="600"/>
+  <p><i>Three-layer architecture: Edge (Arduino) → Gateway (Jetson Nano) → Cloud (Node-RED)</i></p>
+</div
 ---
 
 ## ⚡ Key Features
