@@ -6,7 +6,7 @@
 
 An advanced IoT temperature monitoring system featuring **machine learning-based fault tolerance** for critical industrial applications. The system automatically switches to ML predictions when sensor failures occur, ensuring 100% service continuity.
 
-![System Architecture](docs/images/architecture.png)
+![System Architecture](Media/fig2.png)
 
 ## ✨ Key Features
 
