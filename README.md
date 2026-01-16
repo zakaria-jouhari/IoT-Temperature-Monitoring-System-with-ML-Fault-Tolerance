@@ -6,8 +6,10 @@
 
 An advanced IoT temperature monitoring system featuring **machine learning-based fault tolerance** for critical industrial applications. The system automatically switches to ML predictions when sensor failures occur, ensuring 100% service continuity.
 
-![System Architecture](Media/fig2.png)
-
+<div align="center">
+  <img src="Media/fig2.png" alt="EVA System Architecture" width="300"/>
+  <p><i>Complete system architecture showing all components and communication flow</i></p>
+</div>
 ## ✨ Key Features
 
 - 🤖 **ML Fault Tolerance**: Automatic failover to linear regression predictions during sensor failures
