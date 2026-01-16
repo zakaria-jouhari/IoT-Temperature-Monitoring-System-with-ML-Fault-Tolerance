@@ -7,12 +7,12 @@
 An IoT temperature monitoring system with **automatic ML-based fault tolerance**. When the Arduino sensor fails, the system seamlessly switches to machine learning predictions to maintain 100% service continuity.
 
 <div align="center">
-  <img src="Media/fig2.png" alt="System Architecture" width="600"/>
+  <img src="Media/fig2.png" alt="System Architecture" width="400"/>
   <p><i>Three-layer architecture: Edge (Arduino) → Gateway (Jetson Nano) → Cloud (Node-RED)</i></p>
 </div>
 
 <div align="center">
-  <img src="prototype_reel.jpg" alt="System Architecture" width="600"/>
+  <img src="Media/prototype_reel.jpg" alt="System Architecture" width="300"/>
   <p><i>Three-layer architecture: Edge (Arduino) → Gateway (Jetson Nano) → Cloud (Node-RED)</i></p>
 </div
 ---
